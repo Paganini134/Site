@@ -1,4 +1,4 @@
-# Paginini.github.io
+# Saksham
 Learn't about the following while exploring A multimodal model
 using Tokenized Report using LLMs and image dataset to classify and identify
 Chest scans with Tumour.
